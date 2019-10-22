@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>E-BOOK READER</title>
+		<meta name="description" content="Fullscreen Pageflip Layout with BookBlock" />
+		<meta name="keywords" content="fullscreen pageflip, booklet, layout, bookblock, jquery plugin, flipboard layout, sidebar menu" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.custom.css" />
+		<link rel="stylesheet" type="text/css" href="css/bookblock.css" />
+		<link rel="stylesheet" type="text/css" href="css/custom.css" />
+		<script src="js/modernizr.custom.79639.js"></script>
+	</head>
+	<body>
+		<div id="container" class="container">	
+
+			<div class="menu-panel">
+				<h3>E-Book Reader</h3>
+				<ul id="menu-toc" class="menu-toc">
+					<li class="menu-toc-current"><a href="#item1">İçindekiler</a></li>
+					<li><a href="#item2">Özgürlük Üzerine</a></li>
+					<li><a href="#item3">Göğü Delen Adam</a></li>
+					<li><a href="#item4">Kreutzer Sonatı</a></li>
+					<li><a href="#item5">İnsan Nedir?</a></li>
+					<li><a href="item6">Nohut Oda</a></li>
+				</ul>
+				<div>
+					<a href="http://instagram.com/letswanda/"> Follow us on instagram!</a>
+					<a href="http://twitter.com/letswanda/">Follow us on twitter! </a>
+				</div>
+      </div>
+			<div class="bb-custom-wrapper">
+				<div id="bb-bookblock" class="bb-bookblock">
+					<div class="bb-item" id="item1">
+						<div class="content">
+							<div class="scroller">
+								<h2>İçindekiler</h2>
+							<p>
+								<ul>
+									<li><a href="#item2">John Stuart Mill - Özgürlük Üzerine</a></li>
+									<li><a href="#item3">Erich Scheurmann - Göğü Delen Adam</a></li>
+									<li><a href="#item4">Tolstoy - Kreutzer Sonatı</a></li>
+									<li><a href="#item5">Mark Twain - İnsan Nedir?</a></li>
+									<li><a href="#item5">Melisa Kesmez - Nohut Oda</a></li>
+								</ul>
+							</p>
+								<br>
+								<hr>
+								<p>Design by Eslem Aydemir </p>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="item2">
+						<div class="content">
+							<div class="scroller">
+								<h2>John Stuart Mill - Özgürlük Üzerine</h2>
+								<h3><em>Çevirmen: Berkay Tartıcı, Kutu Yayınları, s.49-50</em></h3>
+								<hr>
+								<br>
+								<p>Bir düşünürün en önemli görevi, içindeki ses onu nereye götürürse götürsün, 
+									o sesin peşini bırakmamaktır. Bunu yerine getirmeyenler büyük düşünür olamazlar. 
+									Araştırmaların ve hazırlıkların ardından düşünen ve hata yapan kimselerin hataları, 
+									hiç zahmet etmeden doğru düşünceleri kabul edenlerin doğrularından çok daha kıymetlidir. 
+									Düşünce özgürlüğü sadece büyük düşünürler yetiştirmek için elzem değildir, aksine, sıradan 
+									insanların ulaşabileceği en yüksek düşünce seviyesine ulaşmaları için olmazsa olmazdır. 
+									Düşüncelerin yasaklandığı dönemlerde az da olsa büyük düşünürler çıkmıştır, çıkmaya da devam 
+									etmektedir, fakat böyle dönemlerde kafası çalışan bir topluma hiçbir zaman rastlanmamıştır. 
+									Düşünce özgürlüğü olmadığı sürece, böyle bir toplum hiçbir zaman var olmayacaktır. Farklı 
+									düşüncelerden korkmaya ara verilmiş bazı dönemlerde, insanlar bu türden bir niteliğe geçici 
+									olarak yaklaşmıştır. İnsanlığı ilgilendiren büyük sorunların ve ilkelerin tartışılmasının tabu 
+									olarak kabul edildiği toplumlarda ise düşünsel harekete rastlanmamaktadır. Bir halkın düşüncelerini 
+									en temelinden sarsıp, sıradan insanları bile düşünür olma şerefine nail edecek itici güç, ancak 
+									ayrılık yaratacak kadar mühim konuların tartışılmasıyla ortaya çıkmaktadır.</p>
+
+								<p>Bu itici güce bir kez Avrupa’nın reform sonrası dönemlerde, bir kez de Kıta Avrupası’yla 
+									ve burjuvaziyle sınırlı olmasına rağmen on sekizinci yüzyılın ikinci kısmında yaşanan düşünce 
+									hareketinde rastlanmıştı. Bunlardan daha kısa süren bir harekete ise Goethe ve Fichte dönemi 
+									Almanya’sında tanık olunmuştu. Bu üç dönem, düşünceler açısından birbirlerinden oldukça farklıydı. 
+									Fakat bu üçünün de ortak noktası, fikirlerin otoritenin hakimiyetinden kurtulmuş olmasıydı. Her 
+									birinde eski düşüncelerin despotizmi alaşağı edilmişti ve yeni bir baskı bunun yerini almamıştı. 
+									Avrupa’yı günümüz anlamında Avrupa yapan da bu üç dönemde meydana gelen itici güçtür. İnsanların 
+									düşüncelerindeki her gelişmede ve kurumların her değişiminde bu dönemlerin etkisi vardır. Maalesef ki, 
+									bir süredir bu itici gücün tükenmek üzere olduğunu görmekteyiz. Düşünce özgürlüğümüzü yeniden elimize 
+									alana kadar yenilik beklememiz anlamsız olur.</p>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="item3">
+						<div class="content">
+							<div class="scroller">
+								<h2>Erich Scheurmann - Göğü Delen Adam</h2>
+								<h3><em>Çevirmen: Levent Tayla, Ayrıntı Yayınları, s.43-46</em></h3>
+								<hr>
+								<br>
+								<h3>Papalagi'nin "Şey"leri Onu Yoksullaştırıyor </h3>
+
+								<p> Ve sizler, Papalagi'yi şundan da tanırsınız: O bizi hiçbir "şey"imiz 
+									olmadığı için yoksul, sefil yoksul, sefil, yardıma ve merhamete muhtaç görür.</p>
+
+								<p>Dinleyin beni ey sevgili adalı kardeşlerim; size bu "şey" denenin ne 
+									olduğunu anlatayım. Hindistancevizi bir "şey"dir, sineklik, örtü, midye, 
+									yüzük, yemek kabı, kafa süsü, bunların hepsi birer "şey"dir. Ama iki türlü 
+									"şey" vardır. Birincisi Büyük Ruh'un bizlere hiç göstermeden yaptığı ve bize 
+									hiçbir emeğe malolmayan hindistancevizi, midye, muz gibi şeyler. İkincisi ise 
+									insanların emek ve çaba harcayarak yaptıkları yüzük, yemek kabı, sineklik gibi 
+									şeyler. Beyaz efendi "şey" dediğinde, kendi eliyle yaptıklarını kasteder. Yani 
+									bizde pek bulunmayan insan "şey"leri kastetmesi mümkün değildir çünkü. Haydi 
+									bakalım, kim daha varlıklıymış, Büyük Ruh'un yaptığı "şey"lerden kimde 
+									bizdekinden daha çok var? Şöyle çevrenize bir göz atın. Uzaklara, yerin mavi 
+									kubbeyi taşıdığı kenarlarına kadar bakın. Her yer büyük "şey"lerle dolu. balta 
+									girmemiş ormanlar, yaban güvercinleri, sinek kuşları, papağanlar, lagündeki 
+									denizhıyarları, midyeler, istakozlar ve diğer deniz hayvanları. Aydınlık yüzlü 
+									kumsal ve kumların yumuşak postu. Bir savaşçı gibi öfkelenen, bir Tapaou gibi 
+									gülümseyen büyük deniz, saati saatine uymayan ve bize altın rengi ışıklar saçan 
+									çiçeklerle bezeli mavi kubbe. Daha, ne demeye aptallık edip de Büyük Ruh'un bu 
+									"şey"lerine başka "şey"ler katmaya çalışalım? Hem biz onunkiler gibi "şey"ler 
+									yapamayız: Çünkü bizim ruhumuz onun gücü karşısında çok küçük ve yetersiz kalır, 
+									ellerimizse onun güçlü ve büyük ellerine göre çok beceriksizdir. Bizim 
+									yapabileceğimiz son derece sınırlı ve söz etmeye değmeyecek kadar değersizdir. 
+									Belki bir daha uzatabiliriz ya da tanoa* ile ellerimizi büyütebiliriz; ama 
+									bugüne kadar ne bir Samoalı ne de bir Papalagi, bir palmiye ya da bir kavak ağacı yaratabildi.</p>
+
+								<p>Ama tabii Papalagi, bütün "şey"leri yaratabileceğine ve Büyük Ruh kadar güçlü olduğuna 
+									inanır. Zaten binlerce ve binlerce elin, güneşi doğuşundan batışına kadar hiç durmadan 
+									"şey"ler üretmeye çalışması da bundan. Ne işe yaradığını bilmediğimiz, güzelliklerini 
+									anlayamadığımız insan "şey"leri... Ve Papalagi, hep daha çok ve daha yeni şeyler tasarlar. 
+									Ellerine ateş basar, benzi kül gibi olur, sırtı kamburlaşır. Ama sonunda yeni bir şey 
+									bulmayagörsün, mutluluktan ışıldamaya başlar. Ve hemen ardından hepsi bu yeni "şey"i 
+									elde etmeye çalışır, ona tapınırlar, onun için kendi dillerinde türküler yakarlar.</p>
+
+								<p>Ah kardeşlerim, inanın bana! Ben Papalagi'nin düşüncelerinin arka yüzünü, onun 
+									gerçek isteklerini öğlen güneşinin altındaymışçasına gördüm. O, geldiği yerde Büyük 
+									Ruh'un "şey"lerini paramparça ettiği için, yok ettiklerini kendi eliyle yeniden 
+									yaratmaya çalışır. Bu arada bir sürü "şey" yaptığı için de kendisinin Büyük Ruh olduğunu sanır. </p>
+
+								<p>Hele bir düşünün kardeşlerim, hemen şu anda büyük bir fırtına çıksa ve orrnanla dağı söküp 
+									götürse. Hem de tüm ağaçlarıyla, yapraklarıyla birlikte. Bütün midyeleri, lagünün bütün 
+									hayvanlarını alsa ve geride tek bir hibikus çiçeği bile kalmasa, hani şu bizim kızların 
+									saçlarına taktıklarından. Her şey, gördüğümüz her şey yitse, kumdan başka bir şey kalmasa 
+									görünürde. Toprak, avuç açmış bir insanın eline benzese, ya da üzerinden kızgın lavların aktığı 
+									bir tepeye. Palmiyelerin arkasından nasıl ah ederdik, midyelerin, ormanın, her şeyin arkasından... 
+									İşte, Papalagi'nin bir dolu kulübe diktiği ve kent adını verdiği yerlerde de toprak bomboş bir el 
+									gibi çorak. İşte bu yüzden Papalagi, çılgın gibi Büyük Ruh'un rolünü oynar. Sahip olmadıklarını 
+									unutabilsin diye. Kendisi bunca yoksul, ülkesi de bunca acılı olduğu için dört elle "şey"lere 
+									sarılır ve delinin solgun yaprakları toplaması gibi toplayıp, kulübesini ağzına kadar onlarla 
+									doldurur. Ama işte, bu yüzden bizi kıskanır ve bizim de kendisi gibi yoksullaşmamızı ister.</p>
+
+								<p>Eğer insan çok fazla "şey"e gereksinim duyuyorsa, bu büyük bir yoksulluğun göstergesidir.</p>
+
+								<p><em>*İçinde yerel içkilerin hazırlandığı çok bacaklı tahta kap</em></p>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="item4">
+						<div class="content">
+							<div class="scroller">
+								<h2>Tolstoy - Kreutzer Sonatı</h2>
+								<h3><em>Çevirmen: Rasim tınaz, Altın Kalem Yayınları, s.73-75</em></h3>
+								<hr>
+								<br>
+
+								<p> İşte böylece yakalandım. Âşıktım. Nişanlılığımız  sırasında, sevdiğim 
+									kızı yalnız mükemmelliğin en yüksek noktasında görmekle kalmıyor, kendimi 
+									de eşi bulunmaz bir inci sayıyordum. </p>
+
+								<p>Bilirsiniz, en aşağılık bir insan bile, isterse, kendinden daha aşağı, 
+									daha kötü kimseler bulabilir; böylece de kendini beyenmekten, gurur duymaktan 
+									hiçbir şey onu alakoymaz. İşte benim durumum da böyleydi. Bir maddi çıkar 
+									evlenmesi yapmıyor, para için evlenmiyordum. Oysa, tanıdıklarımın çoğu para, 
+									ya da, maddiyatla ilgili çıkarlar için evleniyorlardı. Ben zengindim, o parasızdı. </p>
+
+								<p>Gurur duyduğum bir şey daha vardı: Başkaları evlendikten sonra da yaşayageldikleri 
+									çok kadınlı hayatı sürdürmeye kararlıydılar; ben ise evliliğimden sonra ancak karımla 
+									ilgileneceğime kesin karar vermiştim. Bu yönden duyduğum gurur da sonsuzdu. </p>
+
+								<p>Evet, kötü, berbat bir insandım belki ama, kendimi artık melek gibi görüyordum. </p>
+
+								<p>Nişanlılığımız uzun sürmedi. Şimdi, bu dönemi utanç duymaksızın anamıyorum. </p>
+
+								<p>Ne kötü davranmıştım, Tanrı'm! Aşk, şehevî değil ruhi bir duygu olmalı. Aşk 
+									ruhî bir duyguysa, ruhî bir birleşmeyse, bu birleşme anlatımını sözlerde, 
+									konuşmalarda bulmalı. Benim durumumda böyle bir şey yoktu. Yalnız kaldığımız 
+									zaman konuşmak, sohbet etmek son derece zor bir iş oluyordu. Sanki Sisüfos'un azabını çekiyordum. </p>
+
+								<p>Yaşayışımızın bayağılıkları üstüne çıkacak bir konu bulmakta güçlük çekiyordum. Söylenecek 
+									bir şey bulup da söyleyiverdik mi, konu tükeniyor, yeniden başka bir konu aramanın sessizliği 
+									içine düşüyorduk. Konuşacak bir şey yoktu ki. Bizi bekleyen geleceğimiz, tasarılarımız, 
+									isteklerimiz üzerine her şeyi söylemiştim. Başka ne vardı ki? İnsan değil de hayvan olsaydık, 
+									konuşmanın gereksiz olduğunu bilirdik. Gelgelelim, bizim konuşmamız gerekti; konuşma için 
+									gerekli konularla uğraşmadığımız için de, söyleyecek bir şey bulamıyorduk.</p>
+
+								<p>Üstelik, eski geleneklere göre evlendiğimiz için bütün o felâket düğün hazırlıkları, şeker 
+									hediye etmeler, ev, yatak odası, yatak takımları, elbiseler, çamaşırlar konusunda bütün o 
+									hazırlıklar, tartışmalar da vardı. Bütün bunları kaldırıp atmak, ya da uygulamaktan vaz geçmek 
+									elimizden gelmezdi, çünkü kutsal bir tören, dinî bir hava niteliği vardı bütün bu hazırlıklarda.</p>
+
+								<p>Ne var ki -aramızda kalsın- evlenenlerin  onda-dokuzu bu kutsal törenlere inanmadıklan gibi, 
+									davranışlarının birtakım görevleri yerine getirme yönünden gerekli olduğuna bile inanmazlar. 
+									Evlenen yüz erkekten belki de daha önce kadını tanımamış bir tane bile bulunamayacağı bir yana, 
+									elli erkekten ancak bir tanesi ilk fırsatta karısını aldatmayacağını düşünebilirdi. Çoğunluk, 
+									kiliseye gidip, evlenme törenine katılmayı ancak, bir kadına sahip olmanın bir yönü olarak kabul ediyordu. </p>
+
+								<p>Düşünün, bütün bu ayrıntılar ne denli korkunç bir anlam kazanıyor, iş böyle olunca! Bütün bunlar 
+									tüm sorunun ancak bir alışveriş meselesi olduğunu ortaya koyuyor. Masum bir genç kız çapkının 
+									birine satılmakta, bu satış da birtakım törenlerle, koşullarla resmî hâle getirilmekte!</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="item5">
+						<div class="content">
+							<div class="scroller">
+								<h2>Mark Twain - İnsan Nedir?</h2>
+								<h3><em>Çevirmen: Esra Damla İpekçi, Dedalus Kitap, s.26-28</em></h3>
+								<hr>
+								<br>
+
+								<p>G.A: Sevgi, nefret, merhamet, intikam, insaniyet, cömertlik, bağışlama... Bunlara ne diyorsun? </p>
+
+								<p>Y.A: Ana Dürtü’nün farklı sonuçları. Yani, insanın kendi onayını güvenceye alması gerekliliğinin. 
+									Türlü kıyafetler giyerler ve çeşit çeşit ruh hâllerine tabidirler fakat nasıl gizlenirlerse 
+									gizlensinler, hep aynı kişidirler. Başka şekilde düşünürsek, insanı harekete geçiren dürtü, 
+									ki yalnızca bir tane var, kendi ruh tatminini güvenceye alması için olan gerekliliktir. O 
+									durduğunda, insan ölür. </p>
+
+								<p>G.A: Bu ahmaklık. Sevgi... </p>
+
+								<p>Y.A: Sevgi, en taviz vermez hâliyle o dürtü, o kanundur. Kişinin hayatını ve diğer sahip olduklarını 
+									harcayacaktır. Bunu, esasen o kişinin değil, kendi uğruna yapacaktır. Ona sahip olan kişi mutlu 
+									olduğunda, o da mutludur. Aslında bilinçsizce peşinde olduğu asıl şey de budur. </p>
+
+								<p>G.A: Anne sevgisinin yüce ve şefkatli tutkusunu bile bunun dışında tutmuyor musun? </p>
+
+								<p>Y.A: Hayır. O da kanunun mutlak bir kölesi. Anne, çoğunu giydirmek için çıplak gezer, yemek yiyebilsin 
+									diye aç kalır, acıdan kurtarmak için işkenceyi göze alır, o yaşayabilsin diye ölür. Bu 
+									fedakarlıkları yapmaktan güçlü bir zevk duyar. Bunu, o ödül için yapar. Kendini onaylama, 
+									tatmin, huzur, rahatlık için. Aynı ödemeyi alacak olsa, bunları senin çocuğun için de yapardı. </p>
+
+								<p>G.A: Senin bu felsefen, gerçekten şeytani. </p>
+
+								<p>Y.A: Felsefe değil, bu bir gerçek. </p>
+
+								<p>G.A: Tabii, itiraf etmelisin ki bazı eylemler... </p>
+
+								<p>Y.A: Hayır. Bir tane dürtü dışında, başka şeylerden kaynaklanan büyük ya da küçük, iyi ya da 
+									kötü, hiçbir eylem yok. O da insanın kendi ruhunu yatıştırıp tatmin etme dürtüsü. </p>
+
+								<p>G.A: Dünyadaki hayırsever insanlar... </p>
+
+								<p>Y.A: Onlara saygı duyuyorum. Hem alışkanlıktan hem de eğitimim nedeniyle onlara şapka 
+									çıkarıyorum. Talihsizler için çalışmıyor ve para harcamıyor olsalardı, ne huzurun ne 
+									mutluluğun ne de kendini kabul etmenin ne olduğunu bilemezlerdi. Başkalarını mutlu görmek, 
+									onları mutlu ediyor. Bu yüzden para ve iş gücüyle, peşinde oldukları şeyi satın alıyorlar. 
+									Yani mutluluk ve kendini onaylama. Neden maddeciler aynı şeyi yapmıyor? Çünkü bunu yapmayarak 
+									bin kat daha fazla mutluluğa sahip olabilirler. Başka bir neden yok. Takip ettikleri, sadece 
+									yapılarının kanunu. </p>
+
+								<p>G.A: “Görev görev içindir” deyişi hakkında ne diyorsun? </p>
+
+								<p>Y.A: Öyle bir şey yok. Görevler, görev uğruna yerine getirilmez. Onun nedeni, ihmal 
+									edilmelerinin insanı rahatsız edecek olmasıdır. İnsan tek bir görev yerine getirir, 
+									o da ruhunu tatmin ederek kendi kendini kabul edebileceği duruma gelme görevidir. 
+									Eğer komşusuna yardım ederek bu yegâne görevini oldukça tatmin edici şekilde yerine 
+									getirebilecekse, bunu yapacaktır. Eğer komşusunu dolandırarak bu yegâne görevini oldukça 
+									tatmin edici şekilde yerine getirebilecekse, bunu yapacaktır. Fakat en önce, ilk sırada 
+									olanı gözetecektir. Diğerlerinin üzerindeki etkisi, her zaman ikincil meseledir. İnsan, 
+									fedakarlık ediyormuş gibi yapar. Fakat kelimenin gerçek anlamıyla böyle bir şey yoktur ve 
+									asla da var olmamıştır. İnsan sık sık, gerçekten de kendini sadece bir başkası uğruna feda 
+									ettiğini düşünür. Fakat yanılmış olur. Temeldeki dürtüsü, doğasının ve eğitiminin bir 
+									gereksinimini tatmin etmektir. Böylece, ruhu için huzur bulabilir. </p>
+
+								<p>G.A: O zaman, görünüşe bakılırsa, iyisiyle kötüsüyle tüm insanlar, hayatlarını vicdanlarını 
+									tatmin etmeye adıyorlar.</p>
+
+								<p>Y.A: Evet. Bu onun için yeterince uygun bir isim: Vicdan. Bağımsız Hükümdar, bir kişinin 
+									içindeki cüretkâr ve mutlak Kral, insanın Efendisi. Pek çok çeşit vicdan vardır çünkü pek 
+									çok çeşit insan var. Bir suikastçının vicdanını farklı şekilde, hayırseverinkini, paragözünkini, 
+									hırsızınkini farklı şekillerde tatmin edersin. Eğitimi göz önünde bulundurmazsak, yetkili olarak 
+									belirlenmiş herhangi bir ahlak ya da davranış çizgisine, yol gösterici veya teşvik edici araç olarak, 
+									insan vicdanı tamamen değersizdir. Kendi onayı yetersiz olan, iyi yürekli bir Kentucky’li tanıyorum. 
+									Tam anlamıyla ifade etmek gerekirse, vicdanı onu rahatsız ediyordu çünkü bir kişiyi öldürmeyi ihmal 
+									etmişti. Bu, daha önce hiç görmediği biriydi. Yabancı, kavga sırasında, bu adamın arkadaşını öldürmüştü. 
+									Aldığı Kentucky eğitimi, adamın bu sebeple yabancıyı öldürmesini görev hâline getirdi. Oysa, görevini 
+									ihmal etti. Sürekli atlatmanın, kaçınmanın, ertelemenin yollarını buldu. Boyun eğmeyen vicdanı da bu 
+									davranışı yüzünden ona sürekli sıkıntı verdi. En sonunda, iç huzura, rahatlığa ulaşarak kendi onayını 
+									kazanmak adına, yabancıyı bulup hayatını aldı. Eylemi yapmak istememişti ve tatmin olmuş bir ruhla iç 
+									huzuru daha ucuza alabilecek olsaydı, asla da yapmazdı. O yüzden bu, kelimenin genel anlamıyla muazzam
+									 bir fedakarlıktı. Fakat öyle yaratılmışız ki o tatmin için her şeyi ödemeye hazırız.</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="item6">
+							<div class="content">
+								<div class="scroller">
+									<h2>Melisa Kesmez - Nohut Oda</h2>
+									<h3><em>İletişim Yayınları, s.77-78</em></h3>
+									<hr>
+									<br>
+
+									<p>Sokağın sonundaki tek katlı evimizin yoldan sadece kırmızı kiremitleri görünüyordu. 
+										Ev sanki yüz yıllık uykuya dalmış, arsızca dallanıp budaklanmış bitkilerin arasında, 
+										gür yaprakların arkasında yitip gitmiş, metruk bir yere dönüşmüştü.</p>
+
+									<p>Koşar adım bahçe kapısına vardığımda zihnim allak bullaktı. İçeride beni ne bekliyordu, 
+										hayal dahi etmek istemiyordum.</p>
+
+									<p>Derin bir nefes alıp demir kapıyı ittim.</p>
+
+									<p>Kapının arkasında birikmiş kuru yapraklar hışırdayarak gönülsüzce yol verdiler bana. 
+										Büyümüş, neredeyse diz hizasına gelmiş ayrıkotlarının altında kaybolmuş, ancak evvelden 
+										oradan yürümüş birinin takip edebileceği çakıltaşı yoldan evin kapısına doğru ilerledim. 
+										Adım attıkça ayaklarımın altında ezilen taşlar gıcırdıyor, her yanını ot bürümüş bahçenin 
+										kuytu köşesinde sayısız yaşam, türlü hışırtıyla varlığını ilan ediyordu.</p>
+
+									<p>Kameriyenin demirleri boyunca göğe doğru yükselen, eve en çok yaklaştığı yerden çatıya 
+										sıçrayıp oradan hunharca büyümeye devam eden dev begonvil, dökülmüş çiçekleriyle evi 
+										yutmaya hazırlanan bir canavardı şimdi.</p>
+
+									<p>Petunyalar, yaseminler, kadife çiçekleri, aslanağızları, siklamenler, sardunyalar... 
+										Handan'ın yavrusu gibi baktığı bütün çiçekler tarhlardan, saksılardan dışarı taşmış, kalan 
+										son enerjileriyle bahçenin kuru toprağı boyunca kıt kanaat ilerlemeye çalışırken bir noktada 
+										yaşamaktan vazgeçmiş gibiydiler. Kör sineklerin konup konup kalktığı, zarımsı solgun gövdeleri 
+										çoktan zamana yenik düşmüş, toprağa karışmak üzereydi. </p>
+
+									<p>Arsızca büyümüş dalları bazen aralayarak, bazen eğilip altlarından geçerek, bazen de üzerlerinde 
+										atlayarak bahçeyi güç bela geride bırakıp, kapıya tırmanan altı basamaklı merdivenin başına kadar 
+										gelmeyi başardım. Düşen eriklerin lekelediği taş basamaklara admımı atar atmaz yerden bir sinek 
+										bulut havalandı.</p>
+
+									<p>Nihayet kapıya vardığımda kulaklarım uğulduyordu.</p>
+
+									<p>Hemen zile basmak istedimse de yapamadım.</p>
+
+									<p>Arkama dönüp artık birkaç basamak yukarısında durduğum bahçeye baktım tekrar. Az ötede, 
+										begonvilin ele geçirdiği kameriyenin hemen önündeki süs havuzunu fark ettim. Şıpırtısıyla 
+										bahçeyi bir zamanlar bir yeryüzü cennetine tamamlayan fıskiyesi şimdi kapalıydı. Suyun yüzeyi 
+										kuru yapraklarla örtülmüştü. Peki balıklar, onlar hayatta mıydı?</p>
+
+									<p>Burada ne olmuştu? En son ne zaman gelmiştim sahi?</p>
+
+									<p>Dönüp zili çaldım.</p>
+
+									<p>Evin sessiz koridorunda kuşlar cıvıldadı. Bekledim. Gelen giden yok. Kapının yanındaki 
+										pencereden içeriye bakmaya çalıştım. Hiçbir şey göremeyince çantamın içinden anahtarımı arayıp buldum.</p>
+
+									<p>Titreyen ellerle anahtarı zar zor kilide sokup döndürdüm. Kapı gıcırdayarak açıldı.</p>
+
+									<p>İçeri seslendim: "Handan!"</p>
+
+								</div>
+							</div>
+						</div>
+				</div>
+				
+				<nav>
+            <span id="bb-nav-prev">&larr;</span>
+            <span id="bb-nav-next">&rarr;</span>
+        </nav>
+
+				<span id="tblcontents" class="menu-button">Table of Contents</span>
+
+			</div>
+				
+		</div><!-- /container -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="js/jquery.mousewheel.js"></script>
+		<script src="js/jquery.jscrollpane.min.js"></script>
+		<script src="js/jquerypp.custom.js"></script>
+		<script src="js/jquery.bookblock.js"></script>
+		<script src="js/page.js"></script>
+		<script>
+			$(function() {
+
+				Page.init();
+
+			});
+		</script>
+	</body>
+</html>
